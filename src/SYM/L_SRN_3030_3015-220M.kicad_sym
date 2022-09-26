@@ -36,7 +36,7 @@
     (property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*" (id 11) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "L_Template_0_1"
+    (symbol "L_SRN_3030_3015-220M_0_1"
       (arc (start 0 -2.54) (mid 0.635 -1.905) (end 0 -1.27)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -150,7 +150,7 @@
         (fill (type none))
       )
     )
-    (symbol "L_Template_1_1"
+    (symbol "L_SRN_3030_3015-220M_1_1"
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
